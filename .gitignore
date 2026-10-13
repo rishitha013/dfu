@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.keras
+*.png
+*.jpg
+results/

@@ -1,0 +1,11 @@
+streamlit==1.32.0
+tensorflow>=2.10.0
+opencv-python-headless
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-image
+google-generativeai
+python-dotenv
